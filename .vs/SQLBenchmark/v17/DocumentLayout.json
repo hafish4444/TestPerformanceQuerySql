@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdunhafis.h\\Documents\\SQLBenchmark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3820B024-087F-4DC8-9EC9-8C68F2786402}|SQLBenchmark.csproj|c:\\users\\abdunhafis.h\\documents\\sqlbenchmark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3820B024-087F-4DC8-9EC9-8C68F2786402}|SQLBenchmark.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3820B024-087F-4DC8-9EC9-8C68F2786402}|SQLBenchmark.csproj|c:\\users\\abdunhafis.h\\documents\\sqlbenchmark\\viewmodels\\customerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3820B024-087F-4DC8-9EC9-8C68F2786402}|SQLBenchmark.csproj|solutionrelative:viewmodels\\customerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3820B024-087F-4DC8-9EC9-8C68F2786402}|SQLBenchmark.csproj|c:\\users\\abdunhafis.h\\documents\\sqlbenchmark\\models\\testzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3820B024-087F-4DC8-9EC9-8C68F2786402}|SQLBenchmark.csproj|solutionrelative:models\\testzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3820B024-087F-4DC8-9EC9-8C68F2786402}|SQLBenchmark.csproj|c:\\users\\abdunhafis.h\\documents\\sqlbenchmark\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3820B024-087F-4DC8-9EC9-8C68F2786402}|SQLBenchmark.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerOrder.cs",
+              "DocumentMoniker": "C:\\Users\\abdunhafis.h\\Documents\\SQLBenchmark\\ViewModels\\CustomerOrder.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CustomerOrder.cs",
+              "ToolTip": "C:\\Users\\abdunhafis.h\\Documents\\SQLBenchmark\\ViewModels\\CustomerOrder.cs",
+              "RelativeToolTip": "ViewModels\\CustomerOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:39:50.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\abdunhafis.h\\Documents\\SQLBenchmark\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\abdunhafis.h\\Documents\\SQLBenchmark\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:39:49.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestzaContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdunhafis.h\\Documents\\SQLBenchmark\\Models\\TestzaContext.cs",
+              "RelativeDocumentMoniker": "Models\\TestzaContext.cs",
+              "ToolTip": "C:\\Users\\abdunhafis.h\\Documents\\SQLBenchmark\\Models\\TestzaContext.cs",
+              "RelativeToolTip": "Models\\TestzaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:39:47.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdunhafis.h\\Documents\\SQLBenchmark\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\abdunhafis.h\\Documents\\SQLBenchmark\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGQBAAAAAAAAAAAAAHwBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:17:39.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
