@@ -15,7 +15,7 @@ using BenchmarkDotNet.Jobs;
 
 namespace SQLBenchmarkORM
 {
-    // Scaffolded DbContextZaZa
+    // Scaffolded DbContextZaZaZa
     public class TestzaContext : DbContext
     {
         // Constructor that accepts DbContextOptions
